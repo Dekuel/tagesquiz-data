@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Wer soll gemäß dem EU-Zolldeal mit den USA die Energieimporte bezahlen?",
+    "choices": [
+      "Die EU",
+      "Die USA",
+      "Deutschland",
+      "Privatunternehmen"
+    ],
+    "correct_answer": "Die EU",
+    "explanation": "Gemäß dem EU-Zolldeal mit den USA hat die EU zugesagt, Energie im Wert von 750 Milliarden Dollar zu importieren. Dies bedeutet, dass die EU die Kosten für die Energieimporte tragen soll, nicht die USA, Deutschland oder Privatunternehmen.",
+    "context": "Titel: EU-Zolldeal mit den USAWer soll die Energieimporte bezahlen? | Artikel: https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-milliardenversprechen-100.html"
+  },
+  {
+    "question": "Wer fliegt als Teil der Schweizer Delegation nach Washington, um über die Zoll-Situation mit den USA zu verhandeln?",
+    "choices": [
+      "A) Bundespräsidentin Karin Keller-Sutter und Wirtschaftsminister Guy Parmelin",
+      "B) Bundespräsidentin Angela Merkel und Finanzminister Olaf Scholz",
+      "C) Bundeskanzler Sebastian Kurz und Außenminister Alexander Schallenberg",
+      "D) Bundespräsident Emmanuel Macron und Handelsminister Bruno Le Maire"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bundespräsidentin Karin Keller-Sutter und Wirtschaftsminister Guy Parmelin fliegen als hochrangige Regierungsmitglieder Teil einer Schweizer Delegation nach Washington, um über die Zoll-Situation mit den USA zu verhandeln. Die Mission zielt darauf ab, die Zusatzzölle für Schweizer Exporte zu verringern.",
+    "context": "Titel: Vor Inkrafttreten der US-ZölleSchweizer wollen in Washington nachverhandeln | Artikel: https://www.tagesschau.de/wirtschaft/weltwirtschaft/schweiz-usa-zoelle-100.html"
+  },
+  {
+    "question": "Wer muss laut einem Gerichtsurteil die Mehrkosten für das Großprojekt Stuttgart 21 allein tragen?",
+    "choices": [
+      "Die Projektpartner",
+      "Das Land Baden-Württemberg",
+      "Die Stadt Stuttgart",
+      "Die Bahn"
+    ],
+    "correct_answer": "Die Bahn",
+    "explanation": "Das Gerichtsurteil besagt, dass die Bahn die Mehrkosten für Stuttgart 21 allein tragen muss. Die Bahn hatte versucht, die Projektpartner zur Beteiligung zu zwingen, scheiterte jedoch vor Gericht.",
+    "context": "Titel: GerichtsurteilBahn muss Mehrkosten für Stuttgart 21 allein tragen | Artikel: https://www.tagesschau.de/inland/regional/badenwuerttemberg/bahn-stuttgart21-mehrkosten-100.html"
+  },
+  {
+    "question": "Was ist das Ziel der deutschen Bundesregierung in Bezug auf den Flächenverbrauch bis zum Jahr 2050?",
+    "choices": [
+      "A) Netto keine neuen Siedlungs- und Verkehrsflächen verbrauchen",
+      "B) Den täglichen Anstieg auf über 50 Hektar erhöhen",
+      "C) Den Flächenverbrauch für Gewerbegebiete steigern",
+      "D) Den Straßenbau in ländlichen Gebieten fördern"
+    ],
+    "correct_answer": "A",
+    "explanation": "Die deutsche Bundesregierung plant, bis zum Jahr 2050 netto keine neuen Siedlungs- und Verkehrsflächen mehr zu verbrauchen, um eine nachhaltige Flächenkreislaufwirtschaft zu erreichen.",
+    "context": "Titel: Flächenverbrauch in DeutschlandTäglich mehr als 50 Hektar für neue Gebäude und Straßen | Artikel: https://www.tagesschau.de/wirtschaft/konjunktur/bebauung-deutschland-siedlungsflaeche-100.html"
+  },
+  {
+    "question": "Welche beiden süddeutschen Bundesländer haben in den letzten Jahren verstärkt den Ausbau von Windkraftanlagen vorangetrieben?",
+    "choices": [
+      "Bayern und Sachsen",
+      "Baden-Württemberg und Rheinland-Pfalz",
+      "Hessen und Thüringen",
+      "Baden-Württemberg und Bayern"
+    ],
+    "correct_answer": "D",
+    "explanation": "In den letzten Jahren haben vor allem Baden-Württemberg und Bayern verstärkt den Ausbau von Windkraftanlagen vorangetrieben, um ihre selbst gesteckten Ziele zu erreichen. Bayern plant bis 2030 den Bau von 1.000 neuen Windrädern und Baden-Württemberg strebt eine Steigerung der installierten Windkraftleistung von zwei auf sechs Gigawatt im Südwesten an.",
+    "context": "Titel: Ausbauziele auf dem PrüfstandWird die Windkraft in Süddeutschland ausgebremst? | Artikel: https://www.tagesschau.de/wirtschaft/energie/windkraft-sueddeutschland-eeg-100.html"
+  }
+]
