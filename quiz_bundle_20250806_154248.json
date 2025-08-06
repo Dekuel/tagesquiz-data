@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Welches Problem stellt sich Bohdan bei der Arbeit in seinem Feldlazarett in der Nähe von Pokrowsk?",
+    "choices": [
+      "A. Schwierigkeiten mit Drohnen",
+      "B. Mangel an medizinischem Personal",
+      "C. Schlechte Versorgung mit Medikamenten",
+      "D. Kommunikationsprobleme mit anderen Helfern"
+    ],
+    "correct_answer": "A",
+    "explanation": "Bohdan und sein Ärzteteam haben Schwierigkeiten mit Drohnen, die die Arbeit in ihrem Feldlazarett erschweren, indem sie die Verwundeten daran hindern, transportiert zu werden. Zivilisten werden ebenfalls von den Drohnen belästigt, selbst wenn sie sich durch weiße Schleifen an ihren Autos als Nicht-Kombattanten kennzeichnen.",
+    "context": "Titel: Russischer Vormarsch auf PokrowskUkraine an wichtigem Knotenpunkt unter Druck | Artikel: https://www.tagesschau.de/ausland/europa/krieg-ukraine-pokrowsk-100.html"
+  },
+  {
+    "question": "Welche Aussage trifft auf das Treffen zwischen Putin und Witkoff zu?",
+    "choices": [
+      "A: Die Inhalte des Treffens wurden öffentlich bekannt gegeben.",
+      "B: Es handelte sich um ein kurzes Treffen von nur einer Stunde.",
+      "C: Präsident Selenskyj fordert Verbündete auf, den Druck auf die USA zu erhöhen.",
+      "D: Das Treffen fand in Washington D.C. statt."
+    ],
+    "correct_answer": "A",
+    "explanation": "Das Treffen zwischen Putin und Witkoff in Moskau endete nach etwa drei Stunden, jedoch wurden die konkreten Inhalte des Gesprächs nicht öffentlich bekannt gegeben. Präsident Selenskyj forderte Verbündete auf, den Druck auf den Kreml zu erhöhen, nicht auf die USA. Das Treffen fand in Moskau, nicht in Washington D.C., statt.",
+    "context": "Titel: Krieg gegen die Ukraine++ Treffen zwischen Putin und Witkoff beendet ++ | Artikel: https://www.tagesschau.de/newsticker/liveblog-ukraine-mittwoch-518.html"
+  },
+  {
+    "question": "Was ist ein Bestandteil des milliardenschweren Rentenpakets, das vom Kabinett beschlossen wurde?",
+    "choices": [
+      "Erhöhung des Renteneintrittsalters",
+      "Streichung der Mütterrente",
+      "Finanzierung des Deutschlandtickets",
+      "Senkung des Rentenniveaus"
+    ],
+    "correct_answer": "C",
+    "explanation": "Teil des milliardenschweren Rentenpakets, das vom Kabinett beschlossen wurde, ist die Finanzierung des Deutschlandtickets. Dieses Paket zielt darauf ab, das Rentenniveau bis 2031 bei 48 Prozent des jeweils geltenden Durchschnittslohns zu sichern.",
+    "context": "Titel: Gesetzentwürfe der RegierungKabinett beschließtmilliardenschweresRentenpaket | Artikel: https://www.tagesschau.de/inland/innenpolitik/kabinett-rente-102.html"
+  },
+  {
+    "question": "Welche Partei hat den neuen polnischen Präsidenten Karol Nawrocki unterstützt?",
+    "choices": [
+      "A) PiS-Partei",
+      "B) Liberal-Konservative Partei",
+      "C) Sozialdemokratische Partei",
+      "D) Grüne Partei"
+    ],
+    "correct_answer": "A",
+    "explanation": "Der neue polnische Präsident Karol Nawrocki wurde von der rechtspopulistischen PiS-Partei unterstützt, wie im Artikel erwähnt. Die PiS-Partei steht für eine nationalistische und konservative Politik.",
+    "context": "Titel: PolenRechtspopulist Nawrocki als Präsident vereidigt | Artikel: https://www.tagesschau.de/ausland/europa/polen-nawrocki-staatspraesident-100.html"
+  },
+  {
+    "question": "Welche Aussage trifft auf das Atomwaffenarsenal der USA zu?",
+    "choices": [
+      "A) Etwa die Hälfte der nuklearen Sprengköpfe ist sofort einsatzbereit.",
+      "B) Die USA haben insgesamt 700 nukleare Sprengköpfe im Bestand.",
+      "C) Alle atomaren Sprengköpfe der USA sind auf U-Booten stationiert.",
+      "D) Die USA haben keine Atomwaffen in Europa stationiert."
+    ],
+    "correct_answer": "A",
+    "explanation": "Laut dem Artikel sind etwa die Hälfte der 3.700 nuklearen Sprengköpfe der USA sofort einsatzbereit. Diese Information verdeutlicht die Größe und Einsatzbereitschaft des US-Atomwaffenarsenals.",
+    "context": "Titel: 80 Jahre nach US-BombenabwurfEine neue Dynamik der atomaren Aufrüstung | Artikel: https://www.tagesschau.de/ausland/amerika/atomwaffen-usa-100.html"
+  }
+]
